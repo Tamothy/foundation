@@ -1,50 +1,43 @@
-# Foundation for Sites Template
+# Foundation
 
-* Check out the GitHub pages: https://tamothy.github.io/foundation
+#### CSS exercise implementing Foundation framework
 
-**Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
+#### By Tam Nguyen
 
-This is the basic starter project for [Foundation for Sites 6](http://foundation.zurb.com/sites). It includes a Sass compiler and a starter HTML file for you.
+## Description
 
-## Installation
+This contains an application using Foundation framework, incorporating styling and a grid system for a snowboarding website.
 
-To use this template, your computer needs:
+## Setup/Installation Requirements
 
-- [NodeJS](https://nodejs.org/en/) (0.12 or greater)
-- [Git](https://git-scm.com/)
-
-This template can be installed with the Foundation CLI, or downloaded and set up manually.
-
-### Using the CLI
-
-Install the Foundation CLI with this command:
-
+* Download or clone repository
+* Run these commands in terminal
 ```bash
-npm install foundation-cli --global
-```
-
-Use this command to set up a blank Foundation for Sites project with this template:
-
-```bash
-foundation new --framework sites --template basic
-```
-
-The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
-
-### Manual Setup
-
-To manually set up the template, first download it with Git:
-
-```bash
-git clone https://github.com/zurb/foundation-sites-template projectname
-```
-
-Then open the folder in your command line, and install the needed dependencies:
-
-```bash
-cd projectname
+cd foundation
 npm install
 bower install
+npm start
 ```
 
-Finally, run `npm start` to run the Sass compiler. It will re-run every time you save a Sass file.
+
+## Support and contact details
+
+Tam Nguyen's email: mr.tamron@gmail.com
+
+## Technologies Used
+
+CSS
+
+Foundation
+
+JavaScript
+
+jQuery
+
+HTML
+
+### License
+
+This software is licensed under the MIT license.
+
+Copyright (c) 2016 **Tam Nguyen**
